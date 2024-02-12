@@ -3,7 +3,7 @@ using RespostaRequisicao;
 
 Console.WriteLine("Requisicao Resposta");
 
-Conta conta = new Conta("Ricardo", 100_000.00);
+Conta conta = new Conta("José da Silva", 100_000.00);
 
 Console.WriteLine("\nXML =======");
 Requisicao xml = new Requisicao(Formato.XML);
