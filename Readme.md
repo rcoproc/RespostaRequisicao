@@ -1,4 +1,4 @@
-﻿# Design Pattern Strategy
+﻿# Design Pattern Chain of Responsability
 ### Projeto: RespostaRequisicao
 ### Linguagem: csharp dotnet 6.0
 ### Autor: Ricardo Oliveira
@@ -15,7 +15,7 @@ Arquivo de Startup
 
 **Program.cs**
 
-Classes de Negócio(Strategy)
+Classes de Negócio(Chains)
 
 ___
 
